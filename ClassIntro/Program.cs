@@ -1,53 +1,40 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-
-string adi = "Engin";
-int yas = 36;
-
-Kurs kurs1 = new Kurs();
-kurs1.KursAdi = "C#";
-kurs1.Egitmen = "Engin Demiroğ";
-kurs1.IzlenmeOrani = 68;
-
-
-Kurs kurs2 = new Kurs();
-kurs2.KursAdi = "Java";
-kurs2.Egitmen = "Kerem Varış";
-kurs2.IzlenmeOrani = 64;
-
-
-
-Kurs kurs3 = new Kurs();
-kurs3.KursAdi = "Python";
-kurs3.Egitmen = "Berkay Bilgin";
-kurs3.IzlenmeOrani = 80;
-
-
-
-Kurs kurs4 = new Kurs();
-kurs4.KursAdi = "Python";
-kurs4.Egitmen = "Murat Kurtboğan";
-kurs4.IzlenmeOrani = 100;
-
-
-//Console.WriteLine(kurs1.KursAdi + " " + kurs1.Egitmen);
-
-Kurs[] kurslar = new Kurs[] {kurs1, kurs2, kurs3 , kurs4 };
-
-
-//foreach (Kurs kurs in kurslar)
-foreach (var kurs in kurslar)
+﻿namespace ClassIntro
 {
-    Console.WriteLine(kurs.KursAdi + " : " + kurs.Egitmen );
-}
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Course course1 = new Course();
+            course1.CourseName = "Java";
+            course1.EducatorName = "Ahmet Y.";
+            course1.WatchingRate = 71;
 
+            Course course2 = new Course();
+            course2.CourseName = "C#";
+            course2.EducatorName = "Murat A.";
+            course2.WatchingRate = 82;
 
+            Course course3 = new Course();
+            course3.CourseName = "Python";
+            course3.EducatorName = "Mehmet T.";
+            course3.WatchingRate = 67;
 
- class Kurs
-{
-    public string KursAdi { get; set; }
+            Console.WriteLine(course1.CourseName + " : " + course1.EducatorName );
 
-    public string Egitmen { get; set; }
+            Console.WriteLine();
 
-    public int IzlenmeOrani { get; set; }
+            Course[] courses = new Course[] { course1, course2, course3 };
+            foreach( var course in courses ) 
+            {
+                Console.WriteLine(course.CourseName + " : " + course.EducatorName);
+            }
+        }
+    }
+
+    class Course
+    {
+        public string CourseName { get; set; }
+        public string EducatorName { get; set; }
+        public int WatchingRate { get; set; }
+    }
 }

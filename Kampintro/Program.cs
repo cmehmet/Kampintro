@@ -1,39 +1,67 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-
-//type safety
-//Do not repeat yourself
-
-string kategoriEtiketi = "Kategori";
-int ogrenciSayisi = 32000;
-double faizOrani = 1.45;
-bool sistemeGirisYapmisMi = true;
-double dolarDun = 7.35;
-double dolarBugun = 7.45;
-
-
-
-if (dolarDun > dolarBugun)
+﻿namespace KampIntro
 {
-    Console.WriteLine("Azalış butonu");
-}
-else if (dolarDun < dolarBugun)
-{
-    Console.WriteLine("Artış butonu");
-}
+    internal class Program
+    {
+        static void Main(string[] args)
+        {   
+            
+            // Do not repeat yourself
+            Console.WriteLine("Kategori");
+            Console.WriteLine("Kategori");
+            Console.WriteLine("Kategori");
+            Console.WriteLine("Kategori");
+            Console.WriteLine("Kategori");
 
-else
-{
-    Console.WriteLine("Değişmedi butonu");
-}
+            Console.WriteLine("Kategoriler");
+            Console.WriteLine("Kategoriler");
+            Console.WriteLine("Kategoriler");
+            Console.WriteLine("Kategoriler");
+            Console.WriteLine("Kategoriler");
 
+            Console.WriteLine();
 
+            /*string kategoriEtiketi = "Kategori";
+            Console.WriteLine(kategoriEtiketi);*/
 
-if (sistemeGirisYapmisMi == true)
-{
-    Console.WriteLine("Kullanıcı ayarları butonu");
-}
-else
-{
-    Console.WriteLine("Giriş yap butonu");
+            // type safety
+            // value keeper, alias (kategori etiketi)
+            string kategoriEtiketi = "Kategoriler";
+
+            Console.WriteLine(kategoriEtiketi);
+            Console.WriteLine(kategoriEtiketi);
+            Console.WriteLine(kategoriEtiketi);
+            Console.WriteLine(kategoriEtiketi);
+            Console.WriteLine(kategoriEtiketi);
+            
+
+            int ogrenciSayisi = 120;
+            double faizOrani = 1.33;
+            bool sistemeGirisYapmisMi = true;
+            double dolarDun = 9.34;
+            double dolarBugun = 9.34;
+
+            if (sistemeGirisYapmisMi)
+            {
+                Console.WriteLine("Kullanıcı Ayarları Butonu");
+            }
+            else
+            {
+                Console.WriteLine("Kayıt Ol Butonu");
+            }
+
+            if (dolarDun < dolarBugun)
+            {
+                Console.WriteLine("Artış Oku");
+            }
+            else if (dolarDun > dolarBugun)
+            {
+                Console.WriteLine("Azalış Oku");
+            }
+            else
+            {
+                Console.WriteLine("Eşittir Simgesi");
+            }
+
+        }
+    }
 }
