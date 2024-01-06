@@ -1,0 +1,15 @@
+C:\Users\cmehmet\Documents\GitHub\Kampintro\KampIntro\bin\Debug\net8.0\KampIntro.exe
+C:\Users\cmehmet\Documents\GitHub\Kampintro\KampIntro\bin\Debug\net8.0\KampIntro.deps.json
+C:\Users\cmehmet\Documents\GitHub\Kampintro\KampIntro\bin\Debug\net8.0\KampIntro.runtimeconfig.json
+C:\Users\cmehmet\Documents\GitHub\Kampintro\KampIntro\bin\Debug\net8.0\KampIntro.dll
+C:\Users\cmehmet\Documents\GitHub\Kampintro\KampIntro\bin\Debug\net8.0\KampIntro.pdb
+C:\Users\cmehmet\Documents\GitHub\Kampintro\KampIntro\obj\Debug\net8.0\KampIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmehmet\Documents\GitHub\Kampintro\KampIntro\obj\Debug\net8.0\KampIntro.AssemblyInfoInputs.cache
+C:\Users\cmehmet\Documents\GitHub\Kampintro\KampIntro\obj\Debug\net8.0\KampIntro.AssemblyInfo.cs
+C:\Users\cmehmet\Documents\GitHub\Kampintro\KampIntro\obj\Debug\net8.0\KampIntro.csproj.CoreCompileInputs.cache
+C:\Users\cmehmet\Documents\GitHub\Kampintro\KampIntro\obj\Debug\net8.0\KampIntro.sourcelink.json
+C:\Users\cmehmet\Documents\GitHub\Kampintro\KampIntro\obj\Debug\net8.0\KampIntro.dll
+C:\Users\cmehmet\Documents\GitHub\Kampintro\KampIntro\obj\Debug\net8.0\refint\KampIntro.dll
+C:\Users\cmehmet\Documents\GitHub\Kampintro\KampIntro\obj\Debug\net8.0\KampIntro.pdb
+C:\Users\cmehmet\Documents\GitHub\Kampintro\KampIntro\obj\Debug\net8.0\KampIntro.genruntimeconfig.cache
+C:\Users\cmehmet\Documents\GitHub\Kampintro\KampIntro\obj\Debug\net8.0\ref\KampIntro.dll

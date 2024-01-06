@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cmehmet\\source\\repos\\KampIntro\\Math\\Math.csproj",
+      "projectUniqueName": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Math\\Math.csproj",
       "projectName": "Math",
-      "projectPath": "C:\\Users\\cmehmet\\source\\repos\\KampIntro\\Math\\Math.csproj",
+      "projectPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Math\\Math.csproj",
       "packagesPath": "C:\\Users\\cmehmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cmehmet\\source\\repos\\KampIntro\\Math\\obj\\",
+      "outputPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Math\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cmehmet\\AppData\\Roaming\\NuGet\\NuGet.Config",

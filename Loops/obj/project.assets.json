@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cmehmet\\source\\repos\\KampIntro\\Loops\\Loops.csproj",
+      "projectUniqueName": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Loops\\Loops.csproj",
       "projectName": "Loops",
-      "projectPath": "C:\\Users\\cmehmet\\source\\repos\\KampIntro\\Loops\\Loops.csproj",
+      "projectPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Loops\\Loops.csproj",
       "packagesPath": "C:\\Users\\cmehmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cmehmet\\source\\repos\\KampIntro\\Loops\\obj\\",
+      "outputPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Loops\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cmehmet\\AppData\\Roaming\\NuGet\\NuGet.Config",

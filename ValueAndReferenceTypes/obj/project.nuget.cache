@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eKsc1NN3kXa6PA/qv6RWg6fQzfslEbHfLd1gwm+keZsi1wjvaoVbBTGZqPwioPcVovXqJxc77wt1RYZf+soGzA==",
+  "dgSpecHash": "w0Jveeh0yyf2cIMcmIZDbdK1VRWCdvFz6ha05Jah3RjI46yoPQ8wQQ0PCIf1wXxttOSO/fVve5AK31MmdjbeVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cmehmet\\source\\repos\\KampIntro\\ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj",
+  "projectFilePath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cmehmet\\source\\repos\\KampIntro\\ClassIntro\\ClassIntro.csproj": {}
+    "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\ClassIntro\\ClassIntro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cmehmet\\source\\repos\\KampIntro\\ClassIntro\\ClassIntro.csproj": {
+    "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\ClassIntro\\ClassIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cmehmet\\source\\repos\\KampIntro\\ClassIntro\\ClassIntro.csproj",
+        "projectUniqueName": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\ClassIntro\\ClassIntro.csproj",
         "projectName": "ClassIntro",
-        "projectPath": "C:\\Users\\cmehmet\\source\\repos\\KampIntro\\ClassIntro\\ClassIntro.csproj",
+        "projectPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\ClassIntro\\ClassIntro.csproj",
         "packagesPath": "C:\\Users\\cmehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cmehmet\\source\\repos\\KampIntro\\ClassIntro\\obj\\",
+        "outputPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\ClassIntro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cmehmet\\AppData\\Roaming\\NuGet\\NuGet.Config",

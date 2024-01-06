@@ -1,0 +1,15 @@
+C:\Users\cmehmet\Documents\GitHub\Kampintro\GenericsIntro\bin\Debug\net8.0\GenericsIntro.exe
+C:\Users\cmehmet\Documents\GitHub\Kampintro\GenericsIntro\bin\Debug\net8.0\GenericsIntro.deps.json
+C:\Users\cmehmet\Documents\GitHub\Kampintro\GenericsIntro\bin\Debug\net8.0\GenericsIntro.runtimeconfig.json
+C:\Users\cmehmet\Documents\GitHub\Kampintro\GenericsIntro\bin\Debug\net8.0\GenericsIntro.dll
+C:\Users\cmehmet\Documents\GitHub\Kampintro\GenericsIntro\bin\Debug\net8.0\GenericsIntro.pdb
+C:\Users\cmehmet\Documents\GitHub\Kampintro\GenericsIntro\obj\Debug\net8.0\GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmehmet\Documents\GitHub\Kampintro\GenericsIntro\obj\Debug\net8.0\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\cmehmet\Documents\GitHub\Kampintro\GenericsIntro\obj\Debug\net8.0\GenericsIntro.AssemblyInfo.cs
+C:\Users\cmehmet\Documents\GitHub\Kampintro\GenericsIntro\obj\Debug\net8.0\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\cmehmet\Documents\GitHub\Kampintro\GenericsIntro\obj\Debug\net8.0\GenericsIntro.sourcelink.json
+C:\Users\cmehmet\Documents\GitHub\Kampintro\GenericsIntro\obj\Debug\net8.0\GenericsIntro.dll
+C:\Users\cmehmet\Documents\GitHub\Kampintro\GenericsIntro\obj\Debug\net8.0\refint\GenericsIntro.dll
+C:\Users\cmehmet\Documents\GitHub\Kampintro\GenericsIntro\obj\Debug\net8.0\GenericsIntro.pdb
+C:\Users\cmehmet\Documents\GitHub\Kampintro\GenericsIntro\obj\Debug\net8.0\GenericsIntro.genruntimeconfig.cache
+C:\Users\cmehmet\Documents\GitHub\Kampintro\GenericsIntro\obj\Debug\net8.0\ref\GenericsIntro.dll

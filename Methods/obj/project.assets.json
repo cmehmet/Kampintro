@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cmehmet\\source\\repos\\KampIntro\\Methods\\Methods.csproj",
+      "projectUniqueName": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Methods\\Methods.csproj",
       "projectName": "Methods",
-      "projectPath": "C:\\Users\\cmehmet\\source\\repos\\KampIntro\\Methods\\Methods.csproj",
+      "projectPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Methods\\Methods.csproj",
       "packagesPath": "C:\\Users\\cmehmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cmehmet\\source\\repos\\KampIntro\\Methods\\obj\\",
+      "outputPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Methods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cmehmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
