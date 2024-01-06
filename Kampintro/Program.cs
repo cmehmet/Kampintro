@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {   
-            
+             
             // Do not repeat yourself
             Console.WriteLine("Kategori");
             Console.WriteLine("Kategori");
