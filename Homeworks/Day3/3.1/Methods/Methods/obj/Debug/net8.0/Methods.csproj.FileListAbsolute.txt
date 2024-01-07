@@ -1,0 +1,14 @@
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.1\Methods\Methods\bin\Debug\net8.0\Methods.exe
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.1\Methods\Methods\bin\Debug\net8.0\Methods.deps.json
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.1\Methods\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.1\Methods\Methods\bin\Debug\net8.0\Methods.dll
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.1\Methods\Methods\bin\Debug\net8.0\Methods.pdb
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.1\Methods\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.1\Methods\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.1\Methods\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.1\Methods\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.1\Methods\Methods\obj\Debug\net8.0\Methods.dll
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.1\Methods\Methods\obj\Debug\net8.0\refint\Methods.dll
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.1\Methods\Methods\obj\Debug\net8.0\Methods.pdb
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.1\Methods\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.1\Methods\Methods\obj\Debug\net8.0\ref\Methods.dll

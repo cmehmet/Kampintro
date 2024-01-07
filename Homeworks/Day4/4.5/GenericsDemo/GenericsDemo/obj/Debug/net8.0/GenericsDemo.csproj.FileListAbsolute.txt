@@ -1,0 +1,14 @@
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day4\4.5\GenericsDemo\GenericsDemo\bin\Debug\net8.0\GenericsDemo.exe
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day4\4.5\GenericsDemo\GenericsDemo\bin\Debug\net8.0\GenericsDemo.deps.json
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day4\4.5\GenericsDemo\GenericsDemo\bin\Debug\net8.0\GenericsDemo.runtimeconfig.json
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day4\4.5\GenericsDemo\GenericsDemo\bin\Debug\net8.0\GenericsDemo.dll
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day4\4.5\GenericsDemo\GenericsDemo\bin\Debug\net8.0\GenericsDemo.pdb
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day4\4.5\GenericsDemo\GenericsDemo\obj\Debug\net8.0\GenericsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day4\4.5\GenericsDemo\GenericsDemo\obj\Debug\net8.0\GenericsDemo.AssemblyInfoInputs.cache
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day4\4.5\GenericsDemo\GenericsDemo\obj\Debug\net8.0\GenericsDemo.AssemblyInfo.cs
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day4\4.5\GenericsDemo\GenericsDemo\obj\Debug\net8.0\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day4\4.5\GenericsDemo\GenericsDemo\obj\Debug\net8.0\GenericsDemo.dll
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day4\4.5\GenericsDemo\GenericsDemo\obj\Debug\net8.0\refint\GenericsDemo.dll
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day4\4.5\GenericsDemo\GenericsDemo\obj\Debug\net8.0\GenericsDemo.pdb
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day4\4.5\GenericsDemo\GenericsDemo\obj\Debug\net8.0\GenericsDemo.genruntimeconfig.cache
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day4\4.5\GenericsDemo\GenericsDemo\obj\Debug\net8.0\ref\GenericsDemo.dll
