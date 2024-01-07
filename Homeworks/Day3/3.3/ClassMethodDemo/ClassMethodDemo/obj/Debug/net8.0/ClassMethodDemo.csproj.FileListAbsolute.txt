@@ -1,0 +1,14 @@
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.3\ClassMethodDemo\ClassMethodDemo\bin\Debug\net8.0\ClassMethodDemo.exe
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.3\ClassMethodDemo\ClassMethodDemo\bin\Debug\net8.0\ClassMethodDemo.deps.json
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.3\ClassMethodDemo\ClassMethodDemo\bin\Debug\net8.0\ClassMethodDemo.runtimeconfig.json
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.3\ClassMethodDemo\ClassMethodDemo\bin\Debug\net8.0\ClassMethodDemo.dll
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.3\ClassMethodDemo\ClassMethodDemo\bin\Debug\net8.0\ClassMethodDemo.pdb
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.3\ClassMethodDemo\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.3\ClassMethodDemo\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.AssemblyInfoInputs.cache
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.3\ClassMethodDemo\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.AssemblyInfo.cs
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.3\ClassMethodDemo\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.3\ClassMethodDemo\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.dll
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.3\ClassMethodDemo\ClassMethodDemo\obj\Debug\net8.0\refint\ClassMethodDemo.dll
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.3\ClassMethodDemo\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.pdb
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.3\ClassMethodDemo\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.genruntimeconfig.cache
+C:\Users\cmehmet\Desktop\C#_Homeworks\Day3\3.3\ClassMethodDemo\ClassMethodDemo\obj\Debug\net8.0\ref\ClassMethodDemo.dll
