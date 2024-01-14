@@ -1,0 +1,7 @@
+--Ödev Çözümü ---> Her bir üründen kazanılan toplam para
+
+Select p.ProductName As [Ürün Adı], SUM(od.UnitPrice * od.Quantity) As [Kazanılan Toplam Miktar]
+From Products p Inner Join [Order Details] od
+On p.ProductID = od.ProductID
+GROUP BY p.ProductName
+ORDER BY p.ProductName
