@@ -11,6 +11,10 @@ namespace ConsoleUI
         {
 
             CarManager carManager = new CarManager(new EfCarDal());
+            BrandManager brandManager = new BrandManager(new EfBrandDal());
+            UserManager userManager = new UserManager(new EfUserDal());
+
+            //----------Car----------//
 
             //CarAddTest(carManager);
 
@@ -28,13 +32,41 @@ namespace ConsoleUI
 
             //CarGetCarDetails(carManager);
 
-            /*
-            BrandManager brandManager = new BrandManager(new EfBrandDal());
-            //brandManager.Add(new Brand { BrandName = "Nissan" });
-            brandManager.Update(new Brand {BrandId = 5, BrandName = "Lexus"});
-            */
+            //----------Brand----------//
 
+            //BrandAddTest(brandManager);
 
+            //BrandUpdateTest(brandManager);
+
+            //----------User----------//
+
+            //UserGetAllTest(userManager);
+
+            UserAddTest(userManager);
+
+        }
+
+        private static void BrandUpdateTest(BrandManager brandManager)
+        {
+            brandManager.Update(new Brand { BrandId = 5, BrandName = "Lexus" });
+        }
+
+        private static void BrandAddTest(BrandManager brandManager)
+        {
+            brandManager.Add(new Brand { BrandName = "Nissan" });
+        }
+
+        private static void UserAddTest(UserManager userManager)
+        {
+            userManager.Add(new User { FirstName = "Özkan", LastName = "Ruşan", Email = "ozkanrusan@gmail.com", Password = "123bca" });
+        }
+
+        private static void UserGetAllTest(UserManager userManager)
+        {
+            foreach (var user in userManager.GetAll().Data)
+            {
+                Console.WriteLine("{0} - {1} {2} - {3} - {4}", user.Id, user.FirstName, user.LastName, user.Email, user.Password);
+            }
         }
 
         private static void CarGetCarDetails(CarManager carManager)
@@ -48,16 +80,18 @@ namespace ConsoleUI
             }
         }
 
+        //Delete
         private static void CarDeleteTest(CarManager carManager)
         {
-            //Delete
+            
             carManager.Delete(new Car { Id = 9, BrandId = 4, CarName = "Qashqai", ColorId = 4, ModelYear = 2014, DailyPrice = 2000, Description = "Middle Pack" });
             Console.WriteLine("Deleted");
         }
 
+        //Select (By Id)
         private static void CarGetTest(CarManager carManager)
         {
-            //Select (By Id)
+            
             Car car = carManager.Get(5).Data;
             Console.WriteLine("Id : " + car.Id +
                               "\nBrand Id : " + car.BrandId +
@@ -68,9 +102,10 @@ namespace ConsoleUI
                               "\nDescription : " + car.Description);
         }
 
+        //Update
         private static void CarUpdateTest(CarManager carManager)
         {
-            //Update
+            
             carManager.Update(new Car { Id = 5, BrandId = 4, CarName = "Skyline R34", ColorId = 4, ModelYear = 1999, DailyPrice = 7750, Description = "Premium Pack" });
             Console.WriteLine("Updated");
         }
@@ -105,9 +140,9 @@ namespace ConsoleUI
             }
         }
 
+        //Select
         private static void CarGetAllTest(CarManager carManager)
         {
-            //Select
             foreach (Car car in carManager.GetAll().Data)
             {
                 Console.WriteLine("Id : " + car.Id +
@@ -121,9 +156,9 @@ namespace ConsoleUI
             }
         }
 
+        //Insert
         private static void CarAddTest(CarManager carManager)
-        {
-            //Insert
+        { 
             carManager.Add(new Car { BrandId = 5, ColorId = 3, CarName = "LFA", ModelYear = 2022, DailyPrice = 6250, Description = "Premium Pack" });
         }
     }

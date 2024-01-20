@@ -2742,11 +2742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\cmehmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cmehmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2763,14 +2763,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\Business\\Business.csproj"
+            "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\Business\\Business.csproj"
             },
-            "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\Entities\\Entities.csproj"
+            "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\Entities\\Entities.csproj"
             }
           }
         }

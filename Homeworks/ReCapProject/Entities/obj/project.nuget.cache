@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H4OI2d3ksiikkkNrhCAgrsBu+pQjdaUceSTZ7iwJev8tj5j0VvnT/svupFB+O+X+lUomd4VlcyoGzZdqN2oqbQ==",
+  "dgSpecHash": "vYhQJ0Cs3ICELdQwIFQW0SOeV/Agh1kS/ZpXr97QbapeaMpK29BFrh7yoZVNHWuOzCqOV2cI0sE7R72FwykaKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cmehmet\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\cmehmet\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

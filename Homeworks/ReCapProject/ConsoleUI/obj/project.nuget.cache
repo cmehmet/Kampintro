@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D7dLiMCIXkCMyRI3Ott2pI6JwAW+mI0Wvlw9IFM3t5lrgFit6Xep9lp63h3b0aS4Jkxu7gxZAUYKVkEXJWpBrw==",
+  "dgSpecHash": "JE7p/mXc4y5HFvGTYmp2aRrmBMEBkpqtL82wyFWMFi3JJNyAWPLwphoxR3YxUeDtnQqPbHRl0wlkXKrYznadCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+  "projectFilePath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cmehmet\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\cmehmet\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

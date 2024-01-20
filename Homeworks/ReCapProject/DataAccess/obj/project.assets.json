@@ -2703,11 +2703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\cmehmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cmehmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2724,11 +2724,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\Core\\Core.csproj"
+            "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\Core\\Core.csproj"
             },
-            "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\cmehmet\\source\\repos\\ReCapProject\\Entities\\Entities.csproj"
+            "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\Entities\\Entities.csproj"
             }
           }
         }
