@@ -13,6 +13,21 @@ namespace ConsoleUI
             CarManager carManager = new CarManager(new EfCarDal());
             BrandManager brandManager = new BrandManager(new EfBrandDal());
             UserManager userManager = new UserManager(new EfUserDal());
+            CustomerManager customerManager = new CustomerManager(new EfCustomerDal());
+            RentalManager rentalManager = new RentalManager(new EfRentalDal());
+
+
+            //----------Rental----------//
+
+            //RentalAddTest(rentalManager);
+
+            //RentalGetAllTest(rentalManager);
+
+
+            //----------Customer----------//
+            
+            //CustomerGetAllTest(customerManager);
+
 
             //----------Car----------//
 
@@ -32,18 +47,57 @@ namespace ConsoleUI
 
             //CarGetCarDetails(carManager);
 
+
             //----------Brand----------//
 
             //BrandAddTest(brandManager);
 
             //BrandUpdateTest(brandManager);
 
+
             //----------User----------//
 
             //UserGetAllTest(userManager);
 
-            UserAddTest(userManager);
+            //UserAddTest(userManager);
 
+            //UserDeleteTest(userManager);
+
+        }
+
+        private static void RentalGetAllTest(RentalManager rentalManager)
+        {
+            foreach (var rental in rentalManager.GetAll().Data)
+            {
+                Console.WriteLine("{0} - {1} - {2} - {3} - {4}", rental.Id, rental.CarId, rental.CustomerId, rental.RentDate, rental.ReturnDate);
+
+            }
+        }
+
+        private static void CustomerGetAllTest(CustomerManager customerManager)
+        {
+            foreach (var customer in customerManager.GetAll().Data)
+            {
+                Console.WriteLine("{0} - {1} - {2}", customer.Id, customer.UserID, customer.CompanyName);
+            }
+        }
+
+        private static void RentalAddTest(RentalManager rentalManager)
+        {
+            var result = rentalManager.Add(new Rental { CarId = 5, CustomerId = 2, RentDate = DateTime.Now });
+            Console.WriteLine(result.Message);
+        }
+
+        private static void UserDeleteTest(UserManager userManager)
+        {
+            userManager.Delete(new User
+            {
+                Id = 5,
+                FirstName = "Özkan",
+                LastName = "Ruşan",
+                Email = "ozkanrusan@gmail.com",
+                Password = "123bca"
+            });
         }
 
         private static void BrandUpdateTest(BrandManager brandManager)
