@@ -23,6 +23,8 @@ namespace ConsoleUI
 
             //RentalGetAllTest(rentalManager);
 
+            //Console.WriteLine(rentalManager.GetById(1).Data.CarId) ;
+
 
             //----------Customer----------//
             

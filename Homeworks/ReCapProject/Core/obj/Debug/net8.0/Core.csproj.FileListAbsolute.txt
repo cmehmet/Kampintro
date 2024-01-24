@@ -22,3 +22,16 @@ C:\Users\cmehmet\source\repos\ReCapProject\Core\obj\Debug\net8.0\Core.dll
 C:\Users\cmehmet\source\repos\ReCapProject\Core\obj\Debug\net8.0\refint\Core.dll
 C:\Users\cmehmet\source\repos\ReCapProject\Core\obj\Debug\net8.0\Core.pdb
 C:\Users\cmehmet\source\repos\ReCapProject\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\Core\bin\Debug\net8.0\Core.dll
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\Core\obj\Debug\net8.0\Core.dll
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\Core\obj\Debug\net8.0\ref\Core.dll
