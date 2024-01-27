@@ -77,3 +77,7 @@ C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\WebAPI\obj\De
 C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\WebAPI\bin\Debug\net8.0\Autofac.dll
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\WebAPI\bin\Debug\net8.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\WebAPI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\WebAPI\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
