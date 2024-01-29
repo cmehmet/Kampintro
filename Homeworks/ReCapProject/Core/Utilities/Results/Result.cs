@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.Results
+namespace Core.Utilities.Results
 {
     public class Result : IResult
     {
@@ -21,6 +21,6 @@ namespace Core.Results
 
         public bool Success { get; }
 
-        public string Message {  get; }
+        public string Message { get; }
     }
 }

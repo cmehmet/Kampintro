@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WMXZpofMj37NtHqpPIT3yRWA6Tee+IQ68s1thelSF6krLAzqFRXIffYqtwXdEDqMCQamHHnC8hdm9G+YzXDElw==",
+  "dgSpecHash": "s00Ypq0F6G2D4zXv2SURU/zLs9DUuA1hEa7KJtx5dtL9ILhSo1rHZnYYJe6d1ZI8dydzgwNaASJbtdxrmSKD8g==",
   "success": true,
   "projectFilePath": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\cmehmet\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\cmehmet\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\cmehmet\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\cmehmet\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\cmehmet\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\cmehmet\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\cmehmet\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",

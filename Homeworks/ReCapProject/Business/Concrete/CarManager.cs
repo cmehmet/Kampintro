@@ -1,9 +1,15 @@
 ﻿using Business.Abstract;
 using Business.Constants;
-using Core.Results;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
+using Core.CrossCuttingConcerns.Validation;
+using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
 using Entities.DTOs;
+using FluentValidation;
+using System.ComponentModel.DataAnnotations;
+using ValidationException = FluentValidation.ValidationException;
 
 namespace Business.Concrete
 {
@@ -16,18 +22,11 @@ namespace Business.Concrete
             _carDal = carDal;
         }
 
+
+        [ValidationAspect(typeof(CarValidator))]
         public IResult Add(Car car)
         {
-            if (car.DailyPrice <= 0)
-            {
-                //throw new Exception("Not a valid price!");
-                return new ErrorResult("Aracın günlük fiyatı 0'dan küçük olamaz");
-            }
-
-            if (car.CarName.Length < 2)
-            {
-                return new ErrorResult("Araç adı en az 2 karakter içermelidir.");
-            }
+            //ValidationTools.Validate(new CarValidator(),car);
 
             _carDal.Add(car);
 

@@ -81,3 +81,4 @@ C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\WebAPI\bin\De
 C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\WebAPI\bin\Debug\net8.0\Autofac.Extras.DynamicProxy.dll
 C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\WebAPI\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\WebAPI\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\cmehmet\Documents\GitHub\Kampintro\Homeworks\ReCapProject\WebAPI\bin\Debug\net8.0\FluentValidation.dll

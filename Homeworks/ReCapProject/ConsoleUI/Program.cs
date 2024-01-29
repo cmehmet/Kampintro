@@ -148,7 +148,7 @@ namespace ConsoleUI
         private static void CarGetTest(CarManager carManager)
         {
             
-            Car car = carManager.Get(5).Data;
+            Car car = carManager.GetById(5).Data;
             Console.WriteLine("Id : " + car.Id +
                               "\nBrand Id : " + car.BrandId +
                               "\nColor Id: " + car.ColorId +
