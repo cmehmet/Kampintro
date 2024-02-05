@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\183d88d3-f7e1-45e9-956c-30cd2127debc.png",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\183d88d3-f7e1-45e9-956c-30cd2127debc.png"
+    },
+    {
+      "Id": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\20fcad75-eae2-47d8-b695-678475629791.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\20fcad75-eae2-47d8-b695-678475629791.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\6035204d-9f09-4592-ba2b-e03838844751.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\6035204d-9f09-4592-ba2b-e03838844751.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\64673206-6574-4265-9f71-7c72056dc04b.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\64673206-6574-4265-9f71-7c72056dc04b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cmehmet\\Documents\\GitHub\\Kampintro\\Homeworks\\ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\DefaultImage.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\DefaultImage.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebAPI.props",
+      "PackagePath": "build\\WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebAPI.props",
+      "PackagePath": "buildTransitive\\WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

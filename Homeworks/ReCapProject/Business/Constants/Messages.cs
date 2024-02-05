@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entities.Concrete;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,12 @@ namespace Business.Constants
         public static string ColorAdded = "Renk eklendi.";
         public static string ColorsListed = "Renkler listelendi.";
         public static string ColorUpdated = "Renk güncellendi.";
+        public static string CarImagesListed = "Araba resimleri listelendi.";
+        public static string CarImageLimitExceeded = "Bu araç için resim limiti doldu.";
+        public static string CarImageUploaded = "Araba resmi başarıyla eklendi.";
+        public static string NoCarImage = "Belirttiğiniz araç için herhangi bir resim bulunamadı.";
+        public static string CarImageUpdated = "Araba resmi başarıyla güncellendi.";
+        public static string CarImageDeleted = "Araba resmi başarıyla silindi.";
 
     }
 }
